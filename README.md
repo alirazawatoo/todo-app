@@ -9,7 +9,7 @@ To get started with the To_Do App, please follow the instructions below:
 1. Clone the project from the git repository by using following command.
 
 ```
-git clone https://github.com/usmanasif/to_do_app_backend
+git clone https://github.com/alirazawatoo0/to_do_app_backend
 ```
 
 2. Navigate to the project directory using your command prompt or terminal.
